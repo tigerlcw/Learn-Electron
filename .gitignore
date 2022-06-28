@@ -1,0 +1,6 @@
+# 노드모듈, yarn.lock, 출력물 업로드 제외
+yarn.lock
+
+node_modules/
+
+out/

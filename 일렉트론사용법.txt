@@ -1,0 +1,7 @@
+1. packages.json 생성
+2. packages.json에서 main 진입 포인트 설정 Ex) main.js -> main.js가 스타트 파일
+
+3. 앱 패키징 배포 명령어
+[1] yarn install --save-dev @electron-forge/cli
+[2] npx electron-forge import
+[3] yarn run make
